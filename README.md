@@ -25,3 +25,7 @@ Usage:
 	- If you want this usage menu :
 
 		python3 subdorker.py --help
+
+Strongly suggest running this tool on a VPS or using a VPN so you don't get this error :
+	
+	requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url
