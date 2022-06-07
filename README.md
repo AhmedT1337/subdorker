@@ -1,7 +1,7 @@
 # subdorker
 
 subdorker is basically a python script that dorks google for subdomains.
-I consider adding some more features in it so please if you have an idea drop it on my twitter
+I consider adding some more features in it so please if you have any idea that might be useful drop it on my twitter
 			https://twitter.com/AhmedT1337
 
 installation :
