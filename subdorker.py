@@ -41,7 +41,7 @@ def dorking(domain) :
 
 	for item in sh :
 
-		file.writelines(domain+"\n")
+		file.writelines(item+"\n")
 
 	file.close()
 
